@@ -73,10 +73,10 @@ Design and simulate a **low-noise microphone preamplifier** for battery-powered 
 
 **Saroj Shah**
 📍 Albany, NY 12208
-📞 [+1 (617) 955-5843](tel:+16179555843)
-📧 [engsarojshah@gmail.com](mailto:engsarojshah@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/sarojkshah)
-🌐 [Portfolio](https://drsarojshah.github.io)
+📞 [+1 (617) 955-5843](tel:+16179555843)<br>
+📧 [engsarojshah@gmail.com](mailto:engsarojshah@gmail.com)<br>
+🔗 [LinkedIn](https://linkedin.com/in/sarojkshah)<br>
+🌐 [Portfolio](https://drsarojshah.github.io)<br>
 
 ---
 
